@@ -52,3 +52,26 @@ body {
     position: absolute;
     margin-top: -18%;
 }
+.text1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 50%;
+    font-weight: 600;
+}
+.text2 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 50%;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.74);
+    margin-left: 30%;
+    transition: 0.6s;
+    font-weight: 600;
+}
+.text2:hover {
+    font-size: 40px;
+    font-weight: 650;
+    color: rgba(201, 138, 229, 0.795);
+}
