@@ -44,3 +44,101 @@ body {
     color: rgba(201, 138, 229, 0.795);
     font-size: 60px;
 }
+.text1 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 50%;
+    font-weight: 600;
+}
+.text2 {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 50%;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.74);
+    margin-left: 30%;
+    transition: 0.6s;
+    font-weight: 600;
+}
+.text2:hover {
+    font-size: 40px;
+    font-weight: 650;
+    color: rgba(201, 138, 229, 0.795);
+}
+.textair {
+    font-size: 35px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    margin-top:-158%;
+    margin-left: -69% ;
+    position: static;
+}
+.textairq {
+    font-size: 40px;
+    font-weight: 549;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 12%;
+}
+.textairr {
+    font-size: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 600;
+    transition: 0.6s;
+}
+.textairr:hover {
+    font-size: 50px;
+    
+    color: rgba(202, 138, 229, 0.658);
+}
+.image {
+    font-size: 40px;
+    position: absolute;
+    margin-top: 16%;
+    margin-left: 11%;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    transition: 0.6s;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image:hover {
+    font-size: 45px;
+    position: absolute;
+    color: rgba(202, 138, 229, 0.658);
+}
+.textairwe {
+    font-size: 40px;
+    margin-top: 17%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-left: 25%;
+}
+.image2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    margin-left: 11%;
+    transition: 0.6s;
+}
+.image2:hover {
+    font-size: 45px;
+    color: rgba(202, 138, 229, 0.658);
+    position: static;
+}
+.textairw {
+    font-size: 40px;
+    margin-left: 32%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: -2.5%;
+    position: static;    
+}
